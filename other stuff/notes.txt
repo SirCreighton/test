@@ -1,0 +1,64 @@
+
+#python manage.py makemigrations>
+#python manage.py migrate       > za svaku izmenu u bazi podataka
+#python manage.py runserver
+
+
+#note promenio si path u vs code settings i u control panel -> path 
+
+1. Default fajlovi
+manage - lista komandi ne dirati, wsg - server, urls - url routing sistem, settings - baza podataka, 
+
+ *http://127.0.0.1:8000/
+
+2. urls slika objasnava 
+    ^^^^^
+ html navbar...
+
+3. Templates:  bootstrap za navbar(java za dropdown)
+
+4. Static files: za odvajanje jave css i slika od pythona
+
+5. Database Modules & Admin panel: 
+Admin login, 1 user napravljen sa createsuperuser komandom (admin) *Igor, *S2019jbos2014
+Create user - default
+u tabeli se cuvaju osnovne informacije o potrosacu koje unesu
+
+6.Relationships
+
+7.Database Model Queries
+
+8.rendering data to templates #models? 
+
+9.Dynamic URL Routing & Templates
+
+10. create update delete
+
+11. search bad
+
+12. login and register
+
+13. redirect, authentication 
+
+14. seperated staff and normal user
+
+15. User Profile With One To One Relationship
+
+
+#
+for fun: 
+User role
+user profile with one to one relationship 
+image file uploader
+django signals 
+password reset mail
+
+other 
+Postgres Database + AWS RDS
+file storage AWS S3 buckets upload
+heroku server
+heroku postgres connection
+
+job interview material idk -.-?
+pip install django-filter
+#
